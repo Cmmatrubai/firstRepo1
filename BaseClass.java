@@ -34,5 +34,5 @@ public class BaseClass {
     public void displayInfo() {
         System.out.println("ID: " + id + ", Name: " + name);
     }
-    public void blah() {int a;}
+    public void blah() {int a = 78;}
 }
